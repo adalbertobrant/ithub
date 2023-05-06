@@ -64,11 +64,10 @@ footer {
 	padding: auto;
 }
 
-.footer-notes {
+.footer-notes img{
 	float: left;
 	width:30px;
 	height: 30px;
 	padding: 10px;
-	list-style: none;
 }
 
