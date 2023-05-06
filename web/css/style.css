@@ -61,6 +61,15 @@ li.card p {
 
 footer {
 	text-align: left;
+	padding: 10px;
+	margin: 5px;
+}
 
+.footer-notes {
+	display: block;
+	float: left;
+	width:30px;
+	height: 30px;
+	padding: 10px;
 }
 
