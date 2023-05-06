@@ -50,3 +50,11 @@ li.card p {
 	padding: 10px 0;
 	text-align: justify;
 }
+
+.card:hover{
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+#share-div {
+	text-align: center;
+}
